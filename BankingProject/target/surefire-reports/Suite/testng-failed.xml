@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.inetbanking.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="com.inetbanking.testCases.AddCustomer">
+        <methods>
+          <include name="addcutomer"/>
+          <include name="setup"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.AddCustomer -->
+      <class name="com.inetbanking.testCases.EditCustomer">
+        <methods>
+          <include name="setup"/>
+          <include name="editcutomer"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.EditCustomer -->
+      <class name="com.inetbanking.testCases.LoginDataDriverTest">
+        <methods>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="1 2 3"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.LoginDataDriverTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

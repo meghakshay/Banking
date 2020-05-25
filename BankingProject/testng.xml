@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="com.inetbanking.utilities.Reporting">
+	</listener>
+</listeners>
+  <test thread-count="5" name="LoginTest">
+    <classes>
+     <class name="com.inetbanking.testCases.LoginTest"/>
+    </classes>
+  </test> <!-- Test --> 
+   <test thread-count="5" name="LoginDataDriverTest">
+    <classes>
+     <class name="com.inetbanking.testCases.LoginDataDriverTest"/>
+    </classes>
+  </test> <!-- Test -->
+    <test thread-count="5" name="AddCustomer">
+    <classes>
+     <class name="com.inetbanking.testCases.AddCustomer"></class>
+    </classes>
+  </test> <!-- Test -->
+     <test thread-count="5" name="EditCustomer">
+    <classes>
+     <class name="com.inetbanking.testCases.EditCustomer"></class>
+    </classes>
+  </test> <!-- Test -->
+     <test thread-count="5" name="DeleteCustomerTest">
+    <classes>
+      <class name="com.inetbanking.testCases.DeleteCustomerTest"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

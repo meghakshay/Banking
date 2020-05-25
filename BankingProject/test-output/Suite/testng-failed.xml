@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.inetbanking.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="LoginTest(failed)">
+    <classes>
+      <class name="com.inetbanking.testCases.LoginTest">
+        <methods>
+          <include name="validlogin"/>
+          <include name="setup"/>
+          <include name="InvalidUserLogin"/>
+          <include name="CloseBrowser"/>
+          <include name="InvalidPasswordLogin"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.LoginTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+  <test thread-count="5" name="LoginDataDriverTest(failed)">
+    <classes>
+      <class name="com.inetbanking.testCases.LoginDataDriverTest">
+        <methods>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="0 1 2 3"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.LoginDataDriverTest -->
+    </classes>
+  </test> <!-- LoginDataDriverTest(failed) -->
+  <test thread-count="5" name="AddCustomer(failed)">
+    <classes>
+      <class name="com.inetbanking.testCases.AddCustomer">
+        <methods>
+          <include name="addcutomer"/>
+          <include name="setup"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.AddCustomer -->
+    </classes>
+  </test> <!-- AddCustomer(failed) -->
+  <test thread-count="5" name="EditCustomer(failed)">
+    <classes>
+      <class name="com.inetbanking.testCases.EditCustomer">
+        <methods>
+          <include name="setup"/>
+          <include name="editcutomer"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.EditCustomer -->
+    </classes>
+  </test> <!-- EditCustomer(failed) -->
+  <test thread-count="5" name="DeleteCustomerTest(failed)">
+    <classes>
+      <class name="com.inetbanking.testCases.DeleteCustomerTest">
+        <methods>
+          <include name="delete_Customer_With_Unauthorized_Login"/>
+          <include name="delete_NotExisting_Customer"/>
+          <include name="setup"/>
+          <include name="CloseBrowser"/>
+          <include name="delete_Existing_Customer"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.DeleteCustomerTest -->
+    </classes>
+  </test> <!-- DeleteCustomerTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

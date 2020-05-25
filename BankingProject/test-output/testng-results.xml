@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22627" started-at="2020-05-25T05:59:43Z" finished-at="2020-05-25T06:00:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22627" started-at="2020-05-25T05:59:43Z" finished-at="2020-05-25T06:00:06Z">
+      <class name="com.inetbanking.testCases.DepositeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.inetbanking.testCases.DepositeTest@1a968a59]" name="setup" is-config="true" duration-ms="9688" started-at="2020-05-25T05:59:43Z" finished-at="2020-05-25T05:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deposite()[pri:0, instance:com.inetbanking.testCases.DepositeTest@1a968a59]" name="deposite" duration-ms="12553" started-at="2020-05-25T05:59:53Z" finished-at="2020-05-25T06:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deposite -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.inetbanking.testCases.DepositeTest@1a968a59]" name="CloseBrowser" is-config="true" duration-ms="350" started-at="2020-05-25T06:00:05Z" finished-at="2020-05-25T06:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.inetbanking.testCases.DepositeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

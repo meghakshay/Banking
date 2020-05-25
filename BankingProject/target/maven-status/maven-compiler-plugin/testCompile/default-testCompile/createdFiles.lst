@@ -1,0 +1,17 @@
+com\inetbanking\testCases\Anything.class
+com\inetbanking\utilities\ExtentManager.class
+com\inetbanking\utilities\XLutils.class
+com\inetbanking\testCases\LoginDataDriverTest.class
+com\inetbanking\testCases\LoginTest.class
+com\inetbanking\utilities\Reporting.class
+com\inetbanking\pageOjects\NewAccountPage.class
+com\inetbanking\pageOjects\LoginPage.class
+com\inetbanking\pageOjects\AddCustomerPage.class
+com\inetbanking\testCases\AddAccount.class
+com\inetbanking\testCases\BaseTest.class
+com\inetbanking\testCases\EditCustomer.class
+com\inetbanking\testCases\AddCustomer$1.class
+com\inetbanking\testCases\AddCustomer.class
+com\inetbanking\pageOjects\EditCustomerPage.class
+com\inetbanking\pageOjects\HomePage.class
+com\inetbanking\testCases\SetcutomerdetailsTest.class

@@ -1,0 +1,115 @@
+18:56:11.039 [main] INFO  com.inetbanking.testCases.BaseTest - Characters are not allowed
+18:56:11.272 [main] INFO  com.inetbanking.testCases.BaseTest - Not allow to enter null as Account No
+18:56:14.113 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+18:56:20.441 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+18:56:20.590 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+18:56:23.020 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+18:56:23.048 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+18:56:24.620 [main] INFO  com.inetbanking.testCases.BaseTest - Account Number must not be blank
+18:56:27.645 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+18:56:32.269 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+18:56:32.373 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+18:56:34.322 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+18:56:34.333 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+18:56:35.533 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+18:56:35.855 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+18:56:35.963 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+18:56:37.997 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+18:56:39.733 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+18:57:48.561 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+18:57:53.766 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+18:57:53.874 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+18:57:55.925 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+18:57:55.937 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+18:57:57.034 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+18:57:57.159 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+18:57:57.256 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+18:57:59.213 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+18:58:00.806 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+18:59:03.532 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+18:59:10.137 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+18:59:10.241 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+18:59:11.772 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+18:59:11.791 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+18:59:12.936 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+18:59:13.069 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+18:59:13.161 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+18:59:15.077 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+18:59:16.472 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+19:03:53.092 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:03:58.614 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:03:58.739 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:04:01.056 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:04:01.069 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:04:02.120 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+19:04:02.271 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+19:04:02.369 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+19:04:03.867 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+19:04:05.182 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+19:04:05.681 [main] INFO  com.inetbanking.testCases.BaseTest - Account Deleted Sucessfully
+19:05:18.780 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:05:24.163 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:05:24.281 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:05:25.964 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:05:25.979 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:05:26.973 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+19:05:27.148 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+19:05:27.254 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+19:05:28.744 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+19:05:30.059 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+19:05:30.587 [main] INFO  com.inetbanking.testCases.BaseTest - Account Deleted Sucessfully
+19:09:26.388 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:09:32.101 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:09:32.291 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:09:34.027 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:09:34.040 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:09:35.156 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+19:09:35.294 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+19:09:35.390 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+19:09:36.890 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+19:09:38.140 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+19:09:41.262 [main] INFO  com.inetbanking.testCases.BaseTest - Account Deleted Sucessfully
+19:12:11.052 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:12:16.700 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:12:16.808 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:12:18.851 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:12:18.865 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:12:20.622 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+19:12:20.739 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+19:12:20.841 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+19:12:22.624 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+19:12:24.387 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+19:12:30.578 [main] INFO  com.inetbanking.testCases.BaseTest - Account Deleted Sucessfully
+19:13:26.120 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:13:33.560 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:13:33.666 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:13:34.866 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:13:34.877 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:13:35.992 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+19:13:36.135 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+19:13:36.228 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+19:13:38.305 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+19:13:39.666 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+19:13:45.899 [main] INFO  com.inetbanking.testCases.BaseTest - Account Deleted Sucessfully
+19:13:58.727 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:14:05.142 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:14:05.279 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:14:07.501 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:14:07.517 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:14:09.199 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Char in Account No Field
+19:14:09.317 [main] INFO  com.inetbanking.testCases.BaseTest - Characters are not allowed
+19:14:09.405 [main] INFO  com.inetbanking.testCases.BaseTest - Not allow to enter null as Account No
+19:14:12.357 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:14:20.103 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:14:20.392 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:14:20.988 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:14:21.696 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is not matched
+19:14:26.719 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:14:32.370 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:14:32.529 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:14:34.546 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:14:34.558 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:14:35.742 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+19:14:35.857 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+19:14:35.951 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+19:14:38.865 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted

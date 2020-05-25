@@ -1,0 +1,242 @@
+19:14:40.355 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+19:14:46.479 [main] INFO  com.inetbanking.testCases.BaseTest - Account Deleted Sucessfully
+19:22:09.160 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:22:14.778 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:22:14.943 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:22:16.993 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:22:17.018 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:22:19.449 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Char in Account No Field
+19:22:19.582 [main] INFO  com.inetbanking.testCases.BaseTest - Characters are not allowed
+19:22:22.739 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:22:28.133 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:22:28.270 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:22:29.983 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:22:29.990 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:22:31.369 [main] INFO  com.inetbanking.testCases.BaseTest - Account Number must not be blank
+19:22:34.421 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+19:22:39.997 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+19:22:40.118 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+19:22:42.215 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+19:22:42.232 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+19:22:43.696 [main] INFO  com.inetbanking.testCases.BaseTest - CustomerId entered is 11833
+19:22:43.803 [main] INFO  com.inetbanking.testCases.BaseTest - current account is selected
+19:22:43.885 [main] INFO  com.inetbanking.testCases.BaseTest - initial amount is 500
+19:22:45.927 [main] INFO  com.inetbanking.testCases.BaseTest - account details are submitted
+19:22:48.114 [main] INFO  com.inetbanking.testCases.BaseTest - Account No Entered
+19:22:54.337 [main] INFO  com.inetbanking.testCases.BaseTest - Account Deleted Sucessfully
+22:22:15.681 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:22:24.237 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:22:24.634 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:22:25.933 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:22:26.955 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:24:30.310 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:24:36.123 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:24:36.237 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:24:38.324 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:24:38.336 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:25:15.722 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:25:20.847 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:25:21.028 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:25:22.541 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:25:22.565 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:27:22.401 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:27:27.928 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:27:28.072 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:27:29.921 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:27:29.933 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:28:03.453 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:28:08.134 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:28:08.244 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:28:10.264 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:28:10.277 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:32:27.918 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:32:35.274 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:32:35.380 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:32:37.911 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:32:37.919 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:38:16.604 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:38:21.350 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:38:21.466 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:38:23.316 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:38:23.328 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:39:55.831 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:40:02.715 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:40:02.826 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:40:04.588 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:40:04.606 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:43:33.543 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:43:38.663 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:43:38.778 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:43:40.263 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:43:40.276 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:46:58.096 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:47:03.075 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:47:03.191 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:47:05.037 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:47:05.053 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:51:39.856 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:51:44.636 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:51:44.751 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:51:46.750 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:51:46.766 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+22:54:43.144 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+22:54:50.027 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+22:54:50.141 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+22:54:51.929 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+22:54:51.948 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+23:15:28.143 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+23:15:33.083 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+23:15:33.215 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+23:15:35.072 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+23:15:35.235 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+23:18:26.397 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+23:18:32.322 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+23:18:32.455 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+23:18:34.307 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+23:18:34.322 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+23:20:53.901 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+23:20:59.399 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+23:20:59.571 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+23:21:01.218 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+23:21:01.235 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+23:22:36.273 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+23:22:41.858 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+23:22:41.977 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+23:22:43.958 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+23:22:43.972 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+08:50:54.913 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+08:51:02.719 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+08:51:02.828 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+08:51:05.055 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+08:51:05.067 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+08:52:54.162 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+08:53:02.856 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+08:53:03.044 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+08:53:04.922 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+08:53:04.937 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+09:01:37.017 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+09:01:43.217 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+09:01:43.386 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+09:01:45.280 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+09:01:45.294 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+09:04:16.818 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+09:04:22.558 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+09:04:22.730 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+09:04:24.844 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+09:04:24.862 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+09:09:08.501 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+09:09:14.413 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+09:09:14.567 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+09:09:16.284 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+09:09:16.306 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+09:18:57.024 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+09:19:02.408 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+09:19:02.509 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+09:19:04.430 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+09:19:04.446 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+09:32:32.750 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+09:33:03.256 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+09:33:08.503 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+09:33:08.611 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+09:33:10.790 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+09:33:10.798 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+09:35:59.091 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+09:36:04.493 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+09:36:04.671 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+09:36:07.155 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+09:36:07.170 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+09:49:35.007 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+09:57:49.225 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+09:57:52.105 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+09:58:16.060 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+09:59:20.721 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:04:04.937 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:04:44.120 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:04:44.273 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:04:52.308 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:04:52.316 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:07:54.586 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:08:00.311 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:08:00.411 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:08:02.522 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:08:02.531 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:16:59.360 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:17:04.916 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:17:05.046 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:17:08.159 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:17:08.172 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:22:06.842 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:22:11.943 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:22:12.060 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:22:13.726 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:22:13.738 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:24:56.816 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:25:03.884 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:25:03.989 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:25:06.032 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:25:06.048 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:36:10.197 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:36:15.812 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:36:15.918 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:36:17.786 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:36:17.795 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:37:51.838 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:37:58.405 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:37:58.508 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:38:00.123 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:38:00.134 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:40:05.895 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:40:10.804 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:40:10.906 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:40:13.149 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:40:13.161 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:42:11.101 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:42:16.900 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:42:17.002 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:42:18.804 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:42:18.825 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:50:25.999 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:50:32.371 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:50:32.472 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:50:34.125 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:50:34.133 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:51:03.155 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:51:08.513 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:51:08.614 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:51:10.752 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:51:10.763 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+10:52:37.715 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+10:52:42.646 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+10:52:42.750 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+10:52:44.844 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+10:52:44.857 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+11:13:24.070 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+11:13:29.843 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+11:13:29.952 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+11:13:31.852 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+11:13:31.867 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+11:15:40.664 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+11:15:48.781 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+11:15:48.909 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+11:15:54.289 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+11:15:54.303 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+11:18:11.290 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+11:18:16.863 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+11:18:16.966 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+11:18:18.717 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+11:18:18.728 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+11:28:01.870 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+11:28:07.166 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+11:28:07.269 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+11:28:08.819 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+11:28:08.831 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+11:29:13.863 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+11:29:18.840 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+11:29:18.948 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+11:29:20.599 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+11:29:20.612 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
+11:29:48.071 [main] INFO  com.inetbanking.testCases.BaseTest - Browser is Opened
+11:29:53.577 [main] INFO  com.inetbanking.testCases.BaseTest - Enterted UserId
+11:29:53.682 [main] INFO  com.inetbanking.testCases.BaseTest - Entered Password
+11:29:55.398 [main] INFO  com.inetbanking.testCases.BaseTest - Clicked on Login Button
+11:29:55.410 [main] INFO  com.inetbanking.testCases.BaseTest - HomePage Title is matched
